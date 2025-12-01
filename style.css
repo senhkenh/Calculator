@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+a,
+ul,
+a:visited {
+    list-style: none;
+    color: white;
+    text-decoration: none;          
+}
+
+.hero {
+    font-family: 'Roboto';
+    color:#FFBF00;
+    height: 993px; /* Para pantalla caixun es 993px, para pantalla MSI es 961px */
+    background-color: #222120;
+}
+
+.h1 {
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 75px;
+    text-align: center;
+    padding-top: 160px;
+}
+
+.container-2 {
+    margin-left: 600px;
+    height: 700px;
+    width: 700px;
+    border-radius: 20px;
+    background-color: #FFBF00;
+    align-items: center;
+    justify-content: center;   
+}
+
+.input {
+    font-family: monospace;
+    border-radius: 15px;
+    width: 255px;
+    height: 60px;
+    color: white;
+    background-color: #222120;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.first-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px;
+    gap: 1px; 
+}
+
+.second-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px;
+    gap: 1px; 
+}
+
+.third-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px;
+    gap: 1px; 
+}
+
+.fourth-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    gap: 1px; 
+}
+
+.clear {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.pi {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.exponencial {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.division {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.multiplicacion {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.resta {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.suma {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #222120;
+    font-size: 20px;
+    cursor: pointer;
+}
