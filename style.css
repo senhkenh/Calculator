@@ -38,7 +38,7 @@ a:visited {
 
 .container-2 {
     margin-left: 600px;
-    height: 700px;
+    height: 420px;
     width: 700px;
     border-radius: 20px;
     background-color: #FFBF00;
@@ -46,8 +46,10 @@ a:visited {
     justify-content: center;   
 }
 
-.input {
+.display {
+    text-align: right;
     font-family: monospace;
+    font-size: 30px;
     border-radius: 15px;
     width: 255px;
     height: 60px;
